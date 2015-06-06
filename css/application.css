@@ -1,0 +1,25 @@
+.header {
+  margin-top: 6rem;
+  text-align: center;
+  margin-bottom: 3.5rem;
+  border-width: 0;
+  border-bottom: 2px solid #E1E1E1; 
+}
+.header.subtitle {
+}
+
+.post {
+  margin-bottom: 20px;
+}
+
+.main-pic {
+  border: 3px solid #E1E1E1;
+  max-width: 100%;
+  max-height: 100%;
+  margin-bottom: 10px;
+}
+
+.ingredients {
+  border-right: 1px solid #E1E1E1;
+  padding-right: 1px;
+}
