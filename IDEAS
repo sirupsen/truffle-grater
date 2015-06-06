@@ -6,3 +6,8 @@
 * Substitute ingredients interactively when there are options in the steps as
 * well
 * If you add recipes to a timeline it'll come up with the mise en place plan for you.
+* JSON API
+* Add as much data as possible and really try to come up with a structures
+  format for recipes.
+* auto-generate the instructions from the format (perhaps a
+  dependency graph on the ingredients with how each is prepared)?

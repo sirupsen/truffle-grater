@@ -14,7 +14,8 @@ because cooking them through on the pan would over cook the shrimp.
 Bring your favourite skillet or cast iron to high heat with olive oil. Add
 shrimp, about a minute on each side. Throw in shallots, salt and sriracha and
 toss. Then take the asparagus from the ice bath along with the garlic and
-capers. Finally, add lemon juice to taste. Serve hot with big salt flakes."
+capers. Finally, add lemon juice to taste. Serve hot with big salt flakes and
+parsley."
 ingredients:
 - name: Shrimp (20-30 per pound)
   note: This means large shrimp. If bought frozen it'll often say this on the package.
@@ -28,6 +29,7 @@ ingredients:
 - name: Sriracha / hot sauce / chilli flakes
   note: You can also leave this out. Experiment with anything hot.
 - name: (Capers)
+- name: (Parsley / cilantro)
 ---
 
 Asparagus is one of my favourite vegetables. In my corner of the

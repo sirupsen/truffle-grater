@@ -4,7 +4,19 @@
   margin-bottom: 3.5rem;
   border-width: 0;
   border-bottom: 2px solid #E1E1E1; 
+  font-weight: 900;
+
+  background-image: url("/images/grater.svg");
+  background-repeat: no-repeat;
+  background-position: 20%;
 }
+
+.header h2 {
+  font-style: normal;
+  font-weight: 700;
+}
+
+
 .header.subtitle {
 }
 

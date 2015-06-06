@@ -8,9 +8,9 @@ ingredients:
   note: I prefer 0%
 - name: Sweetener
 - name: Frozen berries
-- name: Greated unsweeted dark chocolate
+  note: I've especially use blueberries, stawberries, rasperries and blackberries.
+- name: Grated unsweeted dark chocolate
 - name: Walnuts/almonds
-content: 
 ---
 
 This is my go to high protein snack. I always have these
