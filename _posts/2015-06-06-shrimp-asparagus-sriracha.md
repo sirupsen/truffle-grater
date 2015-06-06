@@ -1,6 +1,6 @@
 ---
 title: Sriracha shrimp with asparagus
-picture: http://damndelicious.net/wp-content/uploads/2014/04/IMG_5191edit.jpg
+picture: /images/sriracha-2.jpg
 steps: "
 **Mise en place:** peel shrimp, crush garlic, chop shallots, cut ends off
 asparagus, boil salted water and prepare ice bath.
@@ -19,6 +19,7 @@ parsley."
 ingredients:
 - name: Shrimp (20-30 per pound)
   note: This means large shrimp. If bought frozen it'll often say this on the package.
+  preperation_time: 20m
 - name: Asparagus
 - name: Garlic
 - name: Lemon juice
@@ -32,7 +33,7 @@ ingredients:
 - name: (Capers)
   optional: true
 - name: (Parsley / cilantro)
-  optiona: true
+  optional: true
 ---
 
 Asparagus is one of my favourite vegetables. In my corner of the
