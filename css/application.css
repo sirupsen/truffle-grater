@@ -8,6 +8,12 @@
 .header.subtitle {
 }
 
+.recipe {
+  /* padding: 20px; */
+  /* background: #F7F7F7; */
+  /* border-radius: 10px; */
+}
+
 .post {
   margin-bottom: 20px;
 }
@@ -20,6 +26,10 @@
 }
 
 .ingredients {
-  border-right: 1px solid #E1E1E1;
-  padding-right: 1px;
+  border-right: 2px solid #E1E1E1;
+  padding-right: 5px;
+}
+
+abbr {
+  cursor: pointer;
 }
