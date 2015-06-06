@@ -15,12 +15,12 @@ layout: default
     <div class="five columns ingredients">
       <ul>
         {% for ingredient in post.ingredients %}
-          <li>
+          <li class="ingredient">
 
           {% if ingredient.note %}
-            <abbr title="{{ ingredient.note }}">{{ ingredient.name }}</abbr>
+            <abbr title="{{ ingredient.note }}"><span class="ingredient-name">{{ ingredient.name }}</span></abbr>
           {% else %}
-            {{ ingredient.name }}
+            <span class="ingredient-name">{{ ingredient.name }}</span>
           {% endif %}
 
           </li>

@@ -11,6 +11,9 @@ ingredients:
   note: I've especially use blueberries, stawberries, rasperries and blackberries.
 - name: Grated unsweeted dark chocolate
 - name: Walnuts/almonds
+- name: (Chocolate Whey Protein)
+  note: This is definitely optional. You can use other flavours here too.
+  optiona: true
 ---
 
 This is my go to high protein snack. I always have these

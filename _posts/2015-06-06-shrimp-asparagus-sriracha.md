@@ -20,6 +20,7 @@ ingredients:
 - name: Shrimp (20-30 per pound)
   note: This means large shrimp. If bought frozen it'll often say this on the package.
 - name: Asparagus
+- name: Garlic
 - name: Lemon juice
 - name: Olive oil
 - name: Salt
@@ -29,7 +30,9 @@ ingredients:
 - name: Sriracha / hot sauce / chilli flakes
   note: You can also leave this out. Experiment with anything hot.
 - name: (Capers)
+  optional: true
 - name: (Parsley / cilantro)
+  optiona: true
 ---
 
 Asparagus is one of my favourite vegetables. In my corner of the

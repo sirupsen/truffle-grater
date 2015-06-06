@@ -11,3 +11,4 @@
   format for recipes.
 * auto-generate the instructions from the format (perhaps a
   dependency graph on the ingredients with how each is prepared)?
+* figure out how to do reviews

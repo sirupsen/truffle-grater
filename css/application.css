@@ -42,6 +42,10 @@
   padding-right: 5px;
 }
 
+.ingredient-name {
+  cursor: pointer;
+}
+
 abbr {
   cursor: pointer;
 }
