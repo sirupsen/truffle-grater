@@ -11,3 +11,6 @@
 * auto-generate the instructions from the format (perhaps a
   dependency graph on the ingredients with how each is prepared)?
 * figure out how to do reviews
+* Generate a graph of recipes that go together (http://www.nature.com/srep/2011/111215/srep00196/fig_tab/srep00196_F2.html)
+* http://idke.ruc.edu.cn/phd-idar2007/idar_pdf/regular-idar31.pdf
+* Complementary flavours could be found by data mining big recipe databases
