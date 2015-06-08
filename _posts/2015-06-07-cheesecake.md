@@ -1,5 +1,5 @@
 ---
-title: Protein cheesecake
+title: Brotein cheesecake
 steps: "
 **Mise en place**: Let yogurt, cream cheese, egg whites sit until they're at
 around room temperature. Otherwise especially the cream cheese won't mix well.
