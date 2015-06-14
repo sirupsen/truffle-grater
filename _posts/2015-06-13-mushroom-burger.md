@@ -5,11 +5,13 @@ steps: "
 **Mise en place**: prepare other fillings, remove stem from mushrooms, add
 spices to ground meat, form hamburger patties, heat oven to 375F/190C.
 
+
 Favourite toppings for burgers vary widely, choose whichever ones you prefer.
 
-Place mushrooms on tray in oven for 8-10 minutes.
 
-Heat skillet to medium heat and cook patties.
+Place mushrooms on tray in oven for 8-10 minutes. Heat skillet to medium heat
+and cook patties.
+
 
 Assemble burger with plenty of ricotta.
 "
