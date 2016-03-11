@@ -2,34 +2,19 @@
 layout: default
 ---
 
-{% for post in site.posts %}
-  <h3 class="title">{{ post.title }}</h3>
+Truffle Grater is where people who trust each other's recommendations share
+their favorite restaurants around the world. It's a scaleable form of the most
+proven recommendation system: asking your friends, who are influenced by their
+friends. As well as the waiters and chefs at the restaurants you enjoy the most.
 
-  {% if post.picture %}
-    <img class="main-pic" alt="" src="{{ post.picture }}" />
-  {% endif %}
+An endorsement means: You'd go back at chance. If your friend from out of town
+had a single night in the city, this is where you'd take them. Worth trekking
+across the city for. Worth travelling for along with your other endorsements.
+Good enough you don't need to tell people more than the name and address. People
+are accountable for their endorsements.
 
-  {{ post.content }}
+If you want to contribute, email simon at sirupsen dot the most common tld.
 
-  <section class="row recipe">
-    <div class="five columns ingredients">
-      <ul>
-        {% for ingredient in post.ingredients %}
-          <li class="ingredient">
+Today, it's just a spreadsheet, but who knows what it could evolve into..
 
-          {% if ingredient.note %}
-            <abbr title="{{ ingredient.note }}"><span class="ingredient-name">{{ ingredient.name }}</span></abbr>
-          {% else %}
-            <span class="ingredient-name">{{ ingredient.name }}</span>
-          {% endif %}
-
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="seven columns steps">
-      {{ post.steps | markdownify }}
-    </div>
-  </section>
-{% endfor %}
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrJbhChNA2FyVmfc" frameborder="0" onmousewheel="" width="100%" height="533" style="background: #fff; border: 1px solid #ccc;"></iframe>
